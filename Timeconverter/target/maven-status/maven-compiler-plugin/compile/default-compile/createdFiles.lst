@@ -1,0 +1,5 @@
+com\timeconverter\Exception\TimeConversionException.class
+com\timeconverter\TimeconverterApplication.class
+com\timeconverter\Controller\Timecontroller.class
+com\timeconverter\Entities\TimeEntity.class
+com\timeconverter\Service\TimeService.class
